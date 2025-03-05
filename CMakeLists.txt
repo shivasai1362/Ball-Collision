@@ -7,13 +7,13 @@ add_executable(SFML_Tutorial main.cpp
         gamedata/Game.cpp
         gamedata/Game.h
         gamedata/Config.h
-        BallCollion/Engine.cpp
-        BallCollion/Engine.h
+        BallCollision/Engine.cpp
+        BallCollision/Engine.h
         Programs/BallCollision.cpp
         Programs/BallCollision.h
-        BallCollion/Config.h
-        BallCollion/Ball.cpp
-        BallCollion/Ball.h
+        BallCollision/Config.h
+        BallCollision/Ball.cpp
+        BallCollision/Ball.h
 )
 
 include_directories(${CMAKE_SOURCE_DIR}/include)

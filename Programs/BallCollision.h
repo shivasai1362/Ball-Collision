@@ -5,7 +5,7 @@
 #ifndef ANOTHERTUTPROGRAM_H
 #define ANOTHERTUTPROGRAM_H
 
-#include "../BallCollion/Engine.h"
+#include "../BallCollision/Engine.h"
 
 
 class BallCollision {
